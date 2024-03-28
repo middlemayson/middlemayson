@@ -22,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" height="40" alt="react native logo"  />
 </div>
 
